@@ -77,7 +77,6 @@ public class Registro extends AppCompatActivity implements View.OnClickListener 
             Toast.makeText(this, "Debe de llenar todos los campos", Toast.LENGTH_LONG).show();
         }
 
-
     }
 
     private void registerUser(){
@@ -97,7 +96,7 @@ public class Registro extends AppCompatActivity implements View.OnClickListener 
                     // map.put("telefono", telefono);
 
                     String id = mAuth.getCurrentUser().getUid();
-                    mDatabase.child("Usuarios").child(id).setValue(map).addOnCompleteListener(new OnCompleteListener<Void>() {
+                    mDatabase.child("usuarios").child(id).setValue(map).addOnCompleteListener(new OnCompleteListener<Void>() {
                         @Override
                         public void onComplete(@NonNull Task<Void> task2) {
                             if(task2.isSuccessful()){
