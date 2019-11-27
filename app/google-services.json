@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702350616811",
+    "firebase_url": "https://edumovil-cc52b.firebaseio.com",
+    "project_id": "edumovil-cc52b",
+    "storage_bucket": "edumovil-cc52b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702350616811:android:3c8c2cefa96260cbba36ae",
+        "android_client_info": {
+          "package_name": "com.educacionparatodos.edumovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702350616811-qor3j6g3tdsqd1so7a90hfn9rk5f2da4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.educacionparatodos.edumovil",
+            "certificate_hash": "c46dfee05b5956aba8870dce0fdef175d2ee6fdc"
+          }
+        },
+        {
+          "client_id": "702350616811-doklj2o51to2tcfc3haf77d78bdk8vie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCilvxmtm9xdw5aaXGNlp-ev85cMcv4anM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702350616811-doklj2o51to2tcfc3haf77d78bdk8vie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
