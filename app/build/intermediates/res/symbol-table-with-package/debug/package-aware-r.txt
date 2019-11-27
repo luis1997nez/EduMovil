@@ -732,6 +732,7 @@ id blocking
 id bottom
 id btn1
 id btn2
+id btnCerrar
 id btnIniciar
 id btnRegistro
 id buttonPanel

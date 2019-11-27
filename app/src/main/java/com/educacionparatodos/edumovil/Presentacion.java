@@ -7,15 +7,21 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.google.firebase.auth.FirebaseAuth;
+
 public class Presentacion extends AppCompatActivity implements View.OnClickListener {
     Button btn1;
     Button btn2;
+
+    FirebaseAuth mAuth;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_presentacion);
+
+        mAuth = FirebaseAuth.getInstance();
         btn1 = findViewById(R.id.btn1);
         btn2 = findViewById(R.id.btn2);
 
@@ -34,6 +40,17 @@ public class Presentacion extends AppCompatActivity implements View.OnClickListe
             Intent sesion = new Intent(Presentacion.this, Login.class);
             startActivity(sesion);
         }
+    }
+
+    protected void onStart(){
+        super.onStart();
+
+        if(mAuth.getCurrentUser() != null){
+            Intent entrada = new Intent(Presentacion.this, Bienvenida.class);
+            startActivity(entrada);
+            finish();
+        }
+
     }
 
 }
