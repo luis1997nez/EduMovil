@@ -60,7 +60,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
             public void onComplete(@NonNull Task<AuthResult> task) {
                 if(task.isSuccessful()){
 
-                    Intent entrada = new Intent(Login.this, home.class);
+                    Intent entrada = new Intent(Login.this, home2.class);
                     startActivity(entrada);
                     finish();
 
