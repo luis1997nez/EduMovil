@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#fab005"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:showIn="@layout/app_bar_main">
 
@@ -19,35 +20,40 @@
         app:layout_constraintTop_toTopOf="parent"
         app:navGraph="@navigation/mobile_navigation" />
 
+
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="185dp"
-        android:layout_height="200dp"
-        android:layout_marginTop="56dp"
+        android:layout_width="258dp"
+        android:layout_height="145dp"
+        android:layout_marginBottom="426dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.513"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.843"
         app:srcCompat="@drawable/user" />
 
     <TextView
         android:id="@+id/textView9"
-        android:layout_width="182dp"
-        android:layout_height="48dp"
-        android:layout_marginStart="112dp"
+        android:layout_width="204dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="90dp"
         android:text="Bienvenido"
-        android:textSize="29sp"
+        android:textColor="#000000"
+        android:textSize="39sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.128"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <TextView
         android:id="@+id/textNombre"
-        android:layout_width="167dp"
-        android:layout_height="188dp"
+        android:layout_width="309dp"
+        android:layout_height="185dp"
         android:text=""
-        android:textSize="29sp"
+        android:textColor="#000000"
+        android:textSize="39sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.535"
         app:layout_constraintStart_toStartOf="parent"

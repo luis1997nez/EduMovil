@@ -27,11 +27,11 @@ public class Registro extends AppCompatActivity implements View.OnClickListener 
     EditText textContrasenia;
     EditText textCiudad;
     EditText textEstado;
-    EditText textTelefono;
+    //EditText textTelefono;
     Button btnRegistro;
 
     String nombre = "", correo = "", contra = "", ciudad = "", estado = "";
-    int telefono = 0;
+    //int telefono = 0;
 
     FirebaseAuth mAuth;
     DatabaseReference mDatabase;
@@ -49,7 +49,7 @@ public class Registro extends AppCompatActivity implements View.OnClickListener 
         textContrasenia = findViewById(R.id.textContrasenia);
         textCiudad = findViewById(R.id.textCiudad);
         textEstado = findViewById(R.id.textEstado);
-        textTelefono =findViewById(R.id.textTelefono);
+        //textTelefono =findViewById(R.id.textTelefono);
 
         btnRegistro = findViewById(R.id.btnRegistro);
         btnRegistro.setOnClickListener(this);
