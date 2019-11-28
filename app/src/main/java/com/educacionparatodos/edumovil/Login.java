@@ -51,7 +51,6 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
             Toast.makeText(Login.this, "Por favor, llene todos los campos", Toast.LENGTH_SHORT).show();
 
         }
-
     }
 
     private void loginUser(){
@@ -61,7 +60,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
             public void onComplete(@NonNull Task<AuthResult> task) {
                 if(task.isSuccessful()){
 
-                    Intent entrada = new Intent(Login.this, Bienvenida.class);
+                    Intent entrada = new Intent(Login.this, home.class);
                     startActivity(entrada);
                     finish();
 

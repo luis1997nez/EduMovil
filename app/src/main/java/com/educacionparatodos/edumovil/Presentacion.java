@@ -46,7 +46,7 @@ public class Presentacion extends AppCompatActivity implements View.OnClickListe
         super.onStart();
 
         if(mAuth.getCurrentUser() != null){
-            Intent entrada = new Intent(Presentacion.this, Bienvenida.class);
+            Intent entrada = new Intent(Presentacion.this, home.class);
             startActivity(entrada);
             finish();
         }
