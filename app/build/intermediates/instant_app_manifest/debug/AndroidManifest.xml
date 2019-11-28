@@ -29,6 +29,10 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
+            android:name="com.educacionparatodos.edumovil.Perfil"
+            android:label="@string/title_activity_perfil"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
             android:name="com.educacionparatodos.edumovil.home"
             android:label="@string/title_activity_home"
             android:theme="@style/AppTheme.NoActionBar" />

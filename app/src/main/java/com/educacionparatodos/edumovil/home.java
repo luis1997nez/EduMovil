@@ -75,6 +75,7 @@ public class home extends AppCompatActivity implements View.OnClickListener {
 
         btnCerrar.setOnClickListener(this);
 
+
         getUserInfo();
     }
 

@@ -4,6 +4,10 @@
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_perfil.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\layout\\activity_perfil.xml"
+    },
+    {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
@@ -142,6 +146,10 @@
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_perfil_drawer.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\menu\\activity_perfil_drawer.xml"
     },
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -352,12 +360,12 @@
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
-        "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -464,6 +472,10 @@
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_perfil.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\layout\\content_perfil.xml"
+    },
+    {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\drawable\\abc_ic_search_api_material.xml"
     },
@@ -546,6 +558,10 @@
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\9d6f0c6ce1072e080bd324ee1d6f3685\\material-1.0.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_new.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\layout\\fragment_new.xml"
     },
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1280,6 +1296,10 @@
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\menu_perfil.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\menu\\perfil.xml"
+    },
+    {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\cfafb781a345d3f54848aefef9b2f0c0\\play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
@@ -1668,6 +1688,10 @@
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_perfil.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\layout\\nav_header_perfil.xml"
+    },
+    {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
@@ -1694,6 +1718,10 @@
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_perfil.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\layout\\app_bar_perfil.xml"
     },
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1814,6 +1842,10 @@
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_perfil.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\drawable\\text_perfil.xml"
     },
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_ripple_color.xml.flat",
@@ -2280,6 +2312,10 @@
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_perfil_usuario.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\layout\\fragment_perfil_usuario.xml"
+    },
+    {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\9d6f0c6ce1072e080bd324ee1d6f3685\\material-1.0.0\\res\\layout\\design_navigation_item.xml"
     },
@@ -2288,12 +2324,12 @@
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\333f0d9d4a1f85c204c46ee8a3138529\\core-1.0.1\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\333f0d9d4a1f85c204c46ee8a3138529\\core-1.0.1\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
-    },
-    {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_user.png.flat",
         "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\drawable-v21\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\333f0d9d4a1f85c204c46ee8a3138529\\core-1.0.1\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
