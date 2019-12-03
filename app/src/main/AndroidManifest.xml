@@ -12,9 +12,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Perfil2" android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".Ubicacion" android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".home2" android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".NuevoAlumno" android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".ListaAlumnos" android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".Perfil2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Ubicacion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".home2"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Login"
             android:theme="@style/AppTheme.NoActionBar" />

@@ -21,6 +21,7 @@ public class home2 extends AppCompatActivity implements View.OnClickListener {
     Button btnCerrar;
     Button btnPerfil;
     Button btnUbi;
+    Button btnLista;
 
     TextView textNombre;
     FirebaseAuth mAuth;
@@ -40,12 +41,14 @@ public class home2 extends AppCompatActivity implements View.OnClickListener {
         btnCerrar = findViewById(R.id.btnCerrar);
         btnPerfil = findViewById(R.id.btnPerfil);
         btnUbi = findViewById(R.id.btnUbi);
+        btnLista = findViewById(R.id.btnLista);
 
         getUserInfo();
 
         btnCerrar.setOnClickListener(this);
         btnPerfil.setOnClickListener(this);
         btnUbi.setOnClickListener(this);
+        btnLista.setOnClickListener(this);
 
     }
 
@@ -67,6 +70,9 @@ public class home2 extends AppCompatActivity implements View.OnClickListener {
         } else if(view.getId()==R.id.btnUbi){
             Intent ubi = new Intent(home2.this, Ubicacion.class);
             startActivity(ubi);
+        } else if(view.getId()==R.id.btnLista){
+            Intent lis = new Intent(home2.this, ListaAlumnos.class);
+            startActivity(lis);
         }
 
     }

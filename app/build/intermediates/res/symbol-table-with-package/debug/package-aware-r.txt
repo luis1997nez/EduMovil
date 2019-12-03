@@ -1284,8 +1284,10 @@ id blocking
 id bottom
 id btn1
 id btn2
+id btnAnadir
 id btnCerrar
 id btnIniciar
+id btnLista
 id btnPerfil
 id btnRegistro
 id btnUbi
@@ -1327,6 +1329,7 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id fab
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1360,6 +1363,7 @@ id line1
 id line3
 id listMode
 id list_item
+id lista
 id logoView
 id mapView
 id masked
@@ -1386,6 +1390,7 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id numero
 id outline
 id packed
 id parallax
@@ -1443,6 +1448,7 @@ id status_bar_latest_event_content
 id stretch
 id submenuarrow
 id submit_area
+id subtitulo
 id tabMode
 id tag_transition_group
 id tag_unhandled_key_event_manager
@@ -1456,12 +1462,14 @@ id textCorreo
 id textEmail
 id textEstado
 id textNombre
+id textNumero
 id textPass
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textUbicacion
 id textView
+id textView10
 id textView2
 id textView3
 id textView4
@@ -1480,6 +1488,7 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
+id titulo
 id top
 id topPanel
 id touch_outside
@@ -1549,8 +1558,10 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_home2
+layout activity_lista_alumnos
 layout activity_location_component
 layout activity_login
+layout activity_nuevo_alumno
 layout activity_perfil2
 layout activity_presentacion
 layout activity_registro
@@ -1720,6 +1731,7 @@ string path_password_strike_through
 string project_id
 string search_menu_title
 string status_bar_notification_info_overflow
+string title_activity_alumnos
 string title_activity_home
 string title_activity_perfil
 style AlertDialog_AppCompat

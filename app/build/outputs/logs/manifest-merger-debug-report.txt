@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-47:12
 MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\ad93ef4e5433831ceee137cf56b1bb2f\jetified-navigation-ui-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\9d6f0c6ce1072e080bd324ee1d6f3685\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\fdeb45c9fe3ec7b7cd1101bc16ceec50\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
@@ -14,6 +14,7 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LuisEnri
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\2faf2431b7f9b251d3aec3ec352942b4\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\ef75f0c5db1f68e8851e32ef331e635e\navigation-fragment-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\6b2f434ea0245398fb53041014759df4\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\39fd81ec2d016ffabb4ac9938ea50750\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.5.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\5a27df4c246bb48a13900363c2cd7ceb\jetified-mapbox-android-sdk-8.5.0\AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\b5644461ae56d3bcb008bd7a18c828b2\firebase-auth-19.2.0\AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\a2a37af89ff6b886094f25d7535393e0\play-services-measurement-17.2.0\AndroidManifest.xml:17:1-55:12
@@ -34,7 +35,6 @@ MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\User
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\827a8b4a0ae0395bd69273205b5bba37\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\1ddc8ab11445522eabf803568c25cb8d\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\7d3fbcd5053476c0a0c06fc232bba204\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\39fd81ec2d016ffabb4ac9938ea50750\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\056eaad87177eaa4e039b562e89e0c0b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\8fe9952621c05e0d0fa761dc6bbcc7bb\navigation-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\cef5760bdd2e24a9657eac689fde7183\jetified-mapbox-android-telemetry-4.5.1\AndroidManifest.xml:2:1-30:12
@@ -73,20 +73,20 @@ MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\L
 MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\bdb85251f6983fd9786c002828d41353\soloader-0.8.0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\203b03b73fb2821d01c1f8c72c5f9f32\jetified-mapbox-android-core-1.3.0\AndroidManifest.xml:2:1-14:12
 MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\e2ac40400b6f9766a173be4a049ef0e2\annotation-0.8.0\AndroidManifest.xml:2:1-13:12
-INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
 		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:3:5-46
 		INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-39:12
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-39:12
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:2:11-69
@@ -119,7 +119,7 @@ MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\LuisEnriqu
 	android:name
 		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:8:5-37:19
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:8:5-45:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\9d6f0c6ce1072e080bd324ee1d6f3685\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\9d6f0c6ce1072e080bd324ee1d6f3685\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\b4176b9940431a6008fad9885aa8d710\firebase-core-17.0.0\AndroidManifest.xml:7:5-20
@@ -190,58 +190,70 @@ MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\LuisEnrique\.gradl
 		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
 		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.educacionparatodos.edumovil.NuevoAlumno
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:15:9-102
+	android:theme
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:15:47-90
+	android:name
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:15:19-46
+activity#com.educacionparatodos.edumovil.ListaAlumnos
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:16:9-93
+	android:theme
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:16:48-91
+	android:name
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:16:19-47
 activity#com.educacionparatodos.edumovil.Perfil2
-ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:15:9-98
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:17:9-19:59
 	android:theme
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:15:43-86
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:19:13-56
 	android:name
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:15:19-42
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:18:13-36
 activity#com.educacionparatodos.edumovil.Ubicacion
-ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:16:9-100
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:20:9-22:59
 	android:theme
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:16:45-88
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:16:19-44
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:21:13-38
 activity#com.educacionparatodos.edumovil.home2
-ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:17:9-86
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:23:9-25:59
 	android:theme
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:17:41-84
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:25:13-56
 	android:name
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:17:19-40
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:24:13-34
 activity#com.educacionparatodos.edumovil.Login
-ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:18:9-20:59
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:26:9-28:59
 	android:theme
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:20:13-56
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:28:13-56
 	android:name
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:19:13-34
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:27:13-34
 activity#com.educacionparatodos.edumovil.Registro
-ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:21:9-23:59
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:29:9-31:59
 	android:theme
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:23:13-56
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:31:13-56
 	android:name
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:22:13-37
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:30:13-37
 activity#com.educacionparatodos.edumovil.Presentacion
-ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:24:9-32:20
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:32:9-40:20
 	android:theme
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:26:13-56
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:34:13-56
 	android:name
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:25:13-41
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:33:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:38:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:34:9-36:57
+ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:42:9-44:57
 	android:resource
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:36:13-54
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:44:13-54
 	android:name
-		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:35:13-43
+		ADDED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml:43:13-43
 uses-sdk
 INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\LuisEnrique\Desktop\EduMovil\app\src\main\AndroidManifest.xml
@@ -266,6 +278,8 @@ MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\LuisEnrique
 MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\ef75f0c5db1f68e8851e32ef331e635e\navigation-fragment-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\6b2f434ea0245398fb53041014759df4\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\6b2f434ea0245398fb53041014759df4\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\39fd81ec2d016ffabb4ac9938ea50750\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\39fd81ec2d016ffabb4ac9938ea50750\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.5.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\5a27df4c246bb48a13900363c2cd7ceb\jetified-mapbox-android-sdk-8.5.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.5.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\5a27df4c246bb48a13900363c2cd7ceb\jetified-mapbox-android-sdk-8.5.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\b5644461ae56d3bcb008bd7a18c828b2\firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
@@ -306,8 +320,6 @@ MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\LuisEnrique\.gradle\cach
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\1ddc8ab11445522eabf803568c25cb8d\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\7d3fbcd5053476c0a0c06fc232bba204\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\7d3fbcd5053476c0a0c06fc232bba204\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\39fd81ec2d016ffabb4ac9938ea50750\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\39fd81ec2d016ffabb4ac9938ea50750\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\056eaad87177eaa4e039b562e89e0c0b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\056eaad87177eaa4e039b562e89e0c0b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\LuisEnrique\.gradle\caches\transforms-2\files-2.1\8fe9952621c05e0d0fa761dc6bbcc7bb\navigation-runtime-2.0.0\AndroidManifest.xml:20:5-44

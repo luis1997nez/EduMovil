@@ -23,7 +23,7 @@
         android:id="@+id/imageView"
         android:layout_width="258dp"
         android:layout_height="145dp"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="32dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
@@ -48,9 +48,11 @@
 
             <TextView
                 android:id="@+id/textView9"
-                android:layout_width="204dp"
+                android:layout_width="293dp"
                 android:layout_height="53dp"
+                android:background="#79b44b"
                 android:text="Bienvenido"
+                android:textAlignment="center"
                 android:textColor="#000000"
                 android:textSize="39sp"
                 android:textStyle="bold"
@@ -62,15 +64,14 @@
                 android:id="@+id/textNombre"
                 android:layout_width="293dp"
                 android:layout_height="137dp"
+                android:background="#79b44b"
                 android:text=""
                 android:textAlignment="center"
                 android:textColor="#000000"
                 android:textSize="29sp"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.535"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView9" />
-
 
             <Button
                 android:id="@+id/btnUbi"
@@ -90,11 +91,25 @@
                 android:id="@+id/btnPerfil"
                 android:layout_width="161dp"
                 android:layout_height="37dp"
+                android:layout_marginTop="15dp"
                 android:background="@drawable/boton_sesion"
                 android:text="@string/title_activity_perfil"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textNombre" />
+
+            <Button
+                android:id="@+id/btnLista"
+                android:layout_width="161dp"
+                android:layout_height="37dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/boton_sesion"
+                android:text="@string/title_activity_alumnos"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/btnUbi" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>

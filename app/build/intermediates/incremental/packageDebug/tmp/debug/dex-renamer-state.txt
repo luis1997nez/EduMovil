@@ -1,4 +1,4 @@
-#Sat Nov 30 15:22:51 EST 2019
+#Tue Dec 03 01:45:54 EST 2019
 base.0=C\:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

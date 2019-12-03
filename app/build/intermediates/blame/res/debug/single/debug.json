@@ -8,6 +8,10 @@
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\5a27df4c246bb48a13900363c2cd7ceb\\jetified-mapbox-android-sdk-8.5.0\\res\\drawable-mdpi-v4\\mapbox_mylocation_icon_bearing.png"
     },
     {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lista_alumnos.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\layout\\activity_lista_alumnos.xml"
+    },
+    {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
@@ -84,12 +88,12 @@
         "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\anim_nav_default_enter_anim.xml.flat",
-        "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\ad93ef4e5433831ceee137cf56b1bb2f\\jetified-navigation-ui-2.0.0\\res\\anim\\nav_default_enter_anim.xml"
-    },
-    {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\anim_nav_default_enter_anim.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\ad93ef4e5433831ceee137cf56b1bb2f\\jetified-navigation-ui-2.0.0\\res\\anim\\nav_default_enter_anim.xml"
     },
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -2474,6 +2478,10 @@
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\LuisEnrique\\.gradle\\caches\\transforms-2\\files-2.1\\fdeb45c9fe3ec7b7cd1101bc16ceec50\\appcompat-1.0.2\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nuevo_alumno.xml.flat",
+        "source": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\src\\main\\res\\layout\\activity_nuevo_alumno.xml"
     },
     {
         "merged": "C:\\Users\\LuisEnrique\\Desktop\\EduMovil\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_collapse_spec.xml.flat",
